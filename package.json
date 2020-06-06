@@ -1,0 +1,19 @@
+{
+  "name": "frontend_env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gourami668/frontend_env.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gourami668/frontend_env/issues"
+  },
+  "homepage": "https://github.com/gourami668/frontend_env#readme"
+}
